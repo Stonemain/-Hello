@@ -1,0 +1,2 @@
+C:\Users\FLZKI\Desktop\shiyancode\Project2\x64\Debug\Project2.exe.lastcodeanalysissucceeded
+C:\Users\FLZKI\Desktop\shiyancode\Project2\Project2\x64\Debug\NativeCodeAnalysis.read.1.tlog
